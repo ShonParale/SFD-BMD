@@ -1,3 +1,5 @@
+EXE Download Link - https://sites.google.com/view/shonparale/sfdbmd
+
 This application is a user-friendly desktop tool designed for civil and structural engineers, students, and educators to analyze beams under various loading and support conditions. With an interactive graphical interface, users can define beam length, add supports (pin, roller, fixed, spring), and apply different types of loads including point loads, uniformly distributed loads (UDL), and varying distributed loads (VDL). The app calculates reactions, then automatically generates Shear Force Diagrams (SFD) and Bending Moment Diagrams (BMD), visualizing the internal forces along the beam.
 
 Key features include:
